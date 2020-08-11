@@ -1,4 +1,4 @@
-# android-learning-path
+# Android Learning Path
 
 personal plan to learn android
 
