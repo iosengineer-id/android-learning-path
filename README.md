@@ -2,7 +2,7 @@
 
 personal plan to learn android
 
-## Kotlin as a Language
+## Kotlin
 
 - [ ] [Kotlin in Action](https://learning.oreilly.com/library/view/kotlin-in-action/9781617293290/)
 - [ ] [The Joy of Kotlin](https://learning.oreilly.com/library/view/the-joy-of/9781617295362/)
@@ -10,8 +10,11 @@ personal plan to learn android
 ## Reactive Programming
 
 - [ ] [Principles of Reactive Programming](https://www.youtube.com/watch?v=fy_QYnoq9XQ&list=PLMhMDErmC1TdBMxd3KnRfYiBV2ELvLyxN)
+- [ ] Explore RxJava
+- [ ] Explore RxAndroid
+- [ ] Explore RxKotlin
 
-## Android as a Platform
+## Android Platform
 
 - [ ] Activity
 - [ ] Fragment
@@ -36,5 +39,7 @@ personal plan to learn android
 - [ ] Android Testing Tools
   - [ ] Mockito
   - [ ] Roboelectric
-
+- [ ] Data Persistence (SharedPreferences, SQLite, Room)
+- [ ] Concurrency (Coroutines, Threads, WorkManager)
+- [ ] Networking (API, JSON, XML, Authentication, Authorization)
 
