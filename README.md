@@ -39,6 +39,8 @@ personal plan to learn android
 - [ ] Android Testing Tools
   - [ ] Mockito
   - [ ] Roboelectric
+  - [ ] Espresso
+  - [ ] Android instrumentation testing
 - [ ] Data Persistence (SharedPreferences, SQLite, Room)
 - [ ] Concurrency (Coroutines, Threads, WorkManager)
 - [ ] Networking (API, JSON, XML, Authentication, Authorization)
