@@ -17,7 +17,13 @@ personal plan to learn android
 
 ## Android Platform
 
-- [ ] Activity
+- [x] **Activity**
+  - [x] [Intro](https://github.com/Ice-House-Engineering/academy-curriculum/blob/master/Android/Beginner/Activity/activity.md)
+  - [x] [From google](https://developer.android.com/reference/android/app/Activity)
+  - [x] [Lifecycle](https://developer.android.com/reference/android/app/Activity#activity-lifecycle)
+  - [ ] Intent
+  - [ ] [Task and Backstack](https://developer.android.com/guide/components/activities/tasks-and-back-stack)
+  
 - [ ] Fragment
 - [ ] Build tools (Gradle, Manifest, Widgets)
 - [ ] Reusable View
@@ -25,17 +31,28 @@ personal plan to learn android
   - [ ] ListView
   - [ ] RecyclerView
   - [ ] ViewPager
-- [ ] Image
-- [ ] Toolbar, Actionbar
+- [ ] View
+  - [ ] Image
+  - [ ] Toolbar, Actionbar
+  - [ ] Webview, Fonts, Richtext
+  - [ ] Dialog
+  - [ ] Animation
+  - [ ] ScrollView
+  - [ ] Search
+- [ ] [ViewGroup](https://developer.android.com/reference/android/view/ViewGroup)
+  - [ ] Linear Layout
+  - [ ] Relative Layout
+  - [ ] Table Layout
+  - [ ] Frame Layout
+  - [ ] Web View
+  - [ ] List View
+  - [ ] Grid View
+  
+- [ ] Gesture
 - [ ] Navigator
 - [ ] Livedata, Data Binding
-- [ ] Webview, Fonts, Richtext
-- [ ] Dialog
-- [ ] Animation
-- [ ] ScrollView
-- [ ] Search
 - [ ] Actionmodes
-- [ ] Gesture
+
 - [ ] Internationalization
 - [ ] Android Testing Tools
   - [ ] Mockito
